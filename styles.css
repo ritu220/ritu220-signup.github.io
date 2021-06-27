@@ -1,0 +1,72 @@
+
+
+
+
+  .sign-up-form{
+   background-color:white;
+   width:300px;
+   border:2px solid;
+  padding:10px;
+   margin:8% auto 0;
+   text-align:center;
+  border-color:white;
+   
+ }
+ 
+ a{
+   text-decoration:none;
+   color:#1c8adb;
+  
+   }
+  
+ 
+ .input-box{
+   padding:8px;
+   margin:10px;
+   width:80%;
+   border-radius:30px;
+   border:1px solid #999;
+   
+ }
+ button{
+   border-radius:20px;
+   font-size:20px;
+   width:40%;
+   padding:5px;
+   margin:10px;
+   border:none;
+   outline:none;
+   cursor:pointer;
+  background-color:#1c8adb;
+  color:white;
+ }
+ hr{
+   width:80%;
+   margin-top:20px;
+ }
+ 
+ h1{
+   color:#1c8adb;
+ }
+ p{font-size:1rem;
+   font-family:bold;
+   margin:20px;
+ }
+ 
+ body{
+   font-family:sans-serif;
+    background:url(https://4.bp.blogspot.com/_AQ0vcRxFu0A/S9shDGGyMTI/AAAAAAAAAYk/kn3WTkY2LoQ/s1600/IMG_0714.JPG);
+   background-size:cover;
+   background-position:center;
+   background-attachment:fixed;
+    
+   
+ }
+ .user{
+   font-size:100px;
+   color:#1c8adb;
+   margin:-60px;
+ }
+ .icon{
+   color:#1c8adb;
+ }
